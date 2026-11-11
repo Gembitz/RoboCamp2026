@@ -1,5 +1,5 @@
 nama = input("Masukan nama anda: ")
-npm = 1
+npm = 25670101
 if npm < 270000000:
     print(f"Selamat {nama} berhasil menyelesaikan challange")
 else:
