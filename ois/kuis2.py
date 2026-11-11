@@ -1,6 +1,6 @@
-nama = int(input("Masukan nama anda: ")
-npm : 1
-if npm >< 270000000:
-print(f"Selamat {nama} berhasil menyelesaikan challange")
+nama = input("Masukan nama anda: ")
+npm = 1
+if (npm < 270000000):
+    print("Selamat berhasil menyelesaikan challange" + str(nama))
 else:
-    print("Yah, kamu masih gagal dengan ID: " + npm)
+    print(f"Yah, kamu masih gagal dengan ID:  {npm}" )
